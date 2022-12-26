@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Deus Podcast</title>
+    <itunes:owner>
+        <itunes:email>sammy99jsp@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Deus Cast</itunes:author>
+    <description>Random shenanigans in D&amp;D.</description>
+    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <language>en-gb</language>
+    <link>https://deus.sammy99jsp.dev/</link>
+    <item>
+        <title>Deus XV</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Thu, 1 Sep 2022 12:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XV.mp3"
+            type="audio/mpeg" length="148126682"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusxv</guid>
+        </item>
+        <item>
+        <title>Deus XIV</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Fri, 26 Mar 2022 12:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XIV.mp3"
+            type="audio/mpeg" length="201007370"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusxiv</guid>
+        </item>
+        <item>
+        <title>Deus XIII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 22 Mar 2022 12:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XIII.mp3"
+            type="audio/mpeg" length="212142676"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusxiii</guid>
+        </item>
+        <item>
+        <title>Deus XII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sun, 21 Aug 2022 16:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XII.mp3"
+            type="audio/mpeg" length="219882452"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusxii</guid>
+        </item>
+        <item>
+        <title>Deus XI</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Fri, 29 Jul 2022 15:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XI.mp3"
+            type="audio/mpeg" length="201208645"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusxi</guid>
+        </item>
+        <item>
+        <title>Deus X</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sun, 25 Jul 2022 16:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/X.mp3"
+            type="audio/mpeg" length="230035614"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusx</guid>
+        </item>
+        <item>
+        <title>Deus IX</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 25 Jun 2022 17:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/IX.mp3"
+            type="audio/mpeg" length="108004627"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusix</guid>
+        </item>
+        <item>
+        <title>Deus VIII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Tue, 12 Apr 2022 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/VIII.mp3"
+            type="audio/mpeg" length="91758349"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusviii</guid>
+        </item>
+        <item>
+        <title>Deus VII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 11 Apr 2022 17:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/VII.mp3"
+            type="audio/mpeg" length="131343651"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusvii</guid>
+        </item>
+        <item>
+        <title>Deus VI</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 9 Apr 2022 17:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/VI.mp3"
+            type="audio/mpeg" length="95994379"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusvi</guid>
+        </item>
+        <item>
+        <title>Deus V</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 19 Mar 2022 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/V.mp3"
+            type="audio/mpeg" length="138860857"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusv</guid>
+        </item>
+        <item>
+        <title>Deus IV</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Thu, 17 Feb 2022 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/IV.mp3"
+            type="audio/mpeg" length="162079372"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusiv</guid>
+        </item>
+        <item>
+        <title>Deus III</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 15 Jan 2022 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/III.mp3"
+            type="audio/mpeg" length="144272110"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusiii</guid>
+        </item>
+        <item>
+        <title>Deus II</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 20 Nov 2021 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/II.mp3"
+            type="audio/mpeg" length="144586567"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusii</guid>
+        </item>
+        <item>
+        <title>Deus I</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 20 Aug 2021 13:00:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/I.mp3"
+            type="audio/mpeg" length="119967197"/>
+        <itunes:duration>H:MM:SS</itunes:duration>
+        <guid isPermaLink="false">deusi</guid>
+        </item>
+  </channel>
+</rss>
