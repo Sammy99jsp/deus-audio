@@ -24,7 +24,7 @@
         <item>
         <title>Deus XIV</title>
         <description>Lorem Ipsum</description>
-        <pubDate>Fri, 26 Mar 2022 12:00:00 GMT</pubDate>
+        <pubDate>Fri, 26 Aug 2022 12:00:00 GMT</pubDate>
         <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XIV.mp3"
             type="audio/mpeg" length="201007370"/>
         <itunes:duration>4:31:05</itunes:duration>
@@ -34,7 +34,7 @@
         <item>
         <title>Deus XIII</title>
         <description>Lorem Ipsum</description>
-        <pubDate>Mon, 22 Mar 2022 12:00:00 GMT</pubDate>
+        <pubDate>Mon, 22 Aug 2022 12:00:00 GMT</pubDate>
         <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XIII.mp3"
             type="audio/mpeg" length="212142676"/>
         <itunes:duration>4:50:51</itunes:duration>
