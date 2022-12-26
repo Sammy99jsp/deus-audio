@@ -8,7 +8,7 @@
     </itunes:owner>
     <itunes:author>Deus Cast</itunes:author>
     <description>Random shenanigans in D&amp;D.</description>
-    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <itunes:image href="https://deus.sammy99jsp.dev/img/podcast.png"/>
     <language>en-gb</language>
     <link>https://deus.sammy99jsp.dev/</link>
     <item>
@@ -19,6 +19,7 @@
             type="audio/mpeg" length="148126682"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusxv</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus XIV</title>
@@ -28,6 +29,7 @@
             type="audio/mpeg" length="201007370"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusxiv</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus XIII</title>
@@ -37,6 +39,7 @@
             type="audio/mpeg" length="212142676"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusxiii</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus XII</title>
@@ -46,6 +49,7 @@
             type="audio/mpeg" length="219882452"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusxii</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus XI</title>
@@ -55,6 +59,7 @@
             type="audio/mpeg" length="201208645"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusxi</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus X</title>
@@ -64,6 +69,7 @@
             type="audio/mpeg" length="230035614"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusx</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus IX</title>
@@ -73,6 +79,7 @@
             type="audio/mpeg" length="108004627"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusix</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus VIII</title>
@@ -82,6 +89,7 @@
             type="audio/mpeg" length="91758349"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusviii</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus VII</title>
@@ -91,6 +99,7 @@
             type="audio/mpeg" length="131343651"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusvii</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus VI</title>
@@ -100,6 +109,7 @@
             type="audio/mpeg" length="95994379"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusvi</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus V</title>
@@ -109,6 +119,7 @@
             type="audio/mpeg" length="138860857"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusv</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus IV</title>
@@ -118,6 +129,7 @@
             type="audio/mpeg" length="162079372"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusiv</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus III</title>
@@ -127,6 +139,7 @@
             type="audio/mpeg" length="144272110"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusiii</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus II</title>
@@ -136,6 +149,7 @@
             type="audio/mpeg" length="144586567"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusii</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
         <title>Deus I</title>
@@ -145,6 +159,7 @@
             type="audio/mpeg" length="119967197"/>
         <itunes:duration>H:MM:SS</itunes:duration>
         <guid isPermaLink="false">deusi</guid>
+        <itunes:explicit>yes</itunes:explicit>
         </item>
   </channel>
 </rss>
