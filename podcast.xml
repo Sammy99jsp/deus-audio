@@ -12,6 +12,26 @@
     <language>en-gb</language>
     <link>https://deus.sammy99jsp.dev/</link>
     <item>
+        <title>Deus XVII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 31 Dec 2021 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XVII.mp3"
+            type="audio/mpeg" length="304160264"/>
+        <itunes:duration>6:50:32</itunes:duration>
+        <guid isPermaLink="false">deusxvii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Deus XVI</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Tue, 27 Dec 2021 15:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XVI.mp3"
+            type="audio/mpeg" length="197349758"/>
+        <itunes:duration>4:31:53</itunes:duration>
+        <guid isPermaLink="false">deusxvi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Deus XV</title>
         <description>Lorem Ipsum</description>
         <pubDate>Thu, 1 Sep 2022 12:00:00 GMT</pubDate>
