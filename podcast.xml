@@ -18,7 +18,7 @@
         <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XX.mp3"
             type="audio/mpeg" length="219365376"/>
         <itunes:duration>5:02:07</itunes:duration>
-        <guid isPermaLink="false">deusxvii</guid>
+        <guid isPermaLink="false">deusxx</guid>
         <itunes:explicit>yes</itunes:explicit>
     </item>
       <item>
@@ -28,7 +28,7 @@
         <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XIX.mp3"
             type="audio/mpeg" length="196476928"/>
         <itunes:duration>4:24:54</itunes:duration>
-        <guid isPermaLink="false">deusxvii</guid>
+        <guid isPermaLink="false">deusxix</guid>
         <itunes:explicit>yes</itunes:explicit>
     </item>
       <item>
@@ -38,7 +38,7 @@
         <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XVIII.mp3"
             type="audio/mpeg" length="194875392"/>
         <itunes:duration>4:30:24</itunes:duration>
-        <guid isPermaLink="false">deusxvii</guid>
+        <guid isPermaLink="false">deusxviii</guid>
         <itunes:explicit>yes</itunes:explicit>
     </item>
       <item>
@@ -48,7 +48,7 @@
         <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/INTERMISSION-A.mp3"
             type="audio/mpeg" length="99672064"/>
         <itunes:duration>2:25:39</itunes:duration>
-        <guid isPermaLink="false">deusxvii</guid>
+        <guid isPermaLink="false">deusintermissiona</guid>
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
