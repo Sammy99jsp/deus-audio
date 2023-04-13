@@ -11,6 +11,46 @@
     <itunes:image href="https://deus.sammy99jsp.dev/img/podcast.png"/>
     <language>en-gb</language>
     <link>https://deus.sammy99jsp.dev/</link>
+      <item>
+        <title>Deus XX </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 10 April 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XX.mp3"
+            type="audio/mpeg" length="219365376"/>
+        <itunes:duration>5:02:07</itunes:duration>
+        <guid isPermaLink="false">deusxvii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XIX </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Wed, 5 April 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XIX.mp3"
+            type="audio/mpeg" length="196476928"/>
+        <itunes:duration>4:24:54</itunes:duration>
+        <guid isPermaLink="false">deusxvii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XVIII </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 3 April 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XVIII.mp3"
+            type="audio/mpeg" length="194875392"/>
+        <itunes:duration>4:30:24</itunes:duration>
+        <guid isPermaLink="false">deusxvii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>INTERMISSION A - MONGEESE </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sun, 2 April 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/INTERMISSION-A.mp3"
+            type="audio/mpeg" length="99672064"/>
+        <itunes:duration>2:25:39</itunes:duration>
+        <guid isPermaLink="false">deusxvii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
     <item>
         <title>Deus XVII</title>
         <description>Lorem Ipsum</description>
