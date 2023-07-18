@@ -12,6 +12,26 @@
     <language>en-gb</language>
     <link>https://deus.sammy99jsp.dev/</link>
       <item>
+        <title>Deus XXII </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Tue, 28 Jun 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XXII.mp3"
+            type="audio/mpeg" length="205067261"/>
+        <itunes:duration>4:44:39</itunes:duration>
+        <guid isPermaLink="false">deusxxii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXI </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 24 Jun 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XXI.mp3"
+            type="audio/mpeg" length="229024616"/>
+        <itunes:duration>5:24:58</itunes:duration>
+        <guid isPermaLink="false">deusxxi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
         <title>Deus XX </title>
         <description>Lorem Ipsum</description>
         <pubDate>Mon, 10 April 2023 14:30:00 GMT</pubDate>
