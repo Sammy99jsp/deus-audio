@@ -14,6 +14,16 @@
       <item>
         <title>Deus XXV </title>
         <description>Lorem Ipsum</description>
+        <pubDate>Sat, 22 Jul 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XXVI.mp3"
+            type="audio/mpeg" length="222975728"/>
+        <itunes:duration>3:34:38</itunes:duration>
+        <guid isPermaLink="false">deusxxvi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXV </title>
+        <description>Lorem Ipsum</description>
         <pubDate>Fri, 21 Jul 2023 14:30:00 GMT</pubDate>
         <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XXV.mp3"
             type="audio/mpeg" length="237421889"/>
