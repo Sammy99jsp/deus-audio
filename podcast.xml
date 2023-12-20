@@ -12,12 +12,32 @@
     <language>en-gb</language>
     <link>https://deus.sammy99jsp.dev/</link>
       <item>
+        <title>Deus XXV </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Fri, 21 Jul 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XXV.mp3"
+            type="audio/mpeg" length="237421889"/>
+        <itunes:duration>3:56:18</itunes:duration>
+        <guid isPermaLink="false">deusxxv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXIV </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Wed, 19 Jul 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XXIV.mp3"
+            type="audio/mpeg" length="228045413"/>
+        <itunes:duration>3:42:11</itunes:duration>
+        <guid isPermaLink="false">deusxxiv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
         <title>Deus XXIII </title>
         <description>Lorem Ipsum</description>
         <pubDate>Mon, 17 Jul 2023 14:30:00 GMT</pubDate>
         <enclosure url="https://deus-audio.s3.eu-west-2.amazonaws.com/XXIII.mp3"
-            type="audio/mpeg" length="228045413"/>
-        <itunes:duration>3:42:41</itunes:duration>
+            type="audio/mpeg" length="190634366"/>
+        <itunes:duration>4:30:54</itunes:duration>
         <guid isPermaLink="false">deusxxiii</guid>
         <itunes:explicit>yes</itunes:explicit>
     </item>
