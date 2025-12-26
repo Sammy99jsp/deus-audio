@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Deus Podcast</title>
+    <itunes:owner>
+        <itunes:email>sammy@sammy99jsp.dev</itunes:email>
+    </itunes:owner>
+    <itunes:author>Deus Cast</itunes:author>
+    <description>Random shenanigans in D&amp;D.</description>
+    <itunes:image href="https://deus.sammy99jsp.dev/img/podcast.png"/>
+    <language>en-gb</language>
+    <link>https://deus.sammy99jsp.dev/</link>
+      <item>
+        <title>Deus XXVI </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 22 Jul 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXVI.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="222975728"/>
+        <itunes:duration>3:34:38</itunes:duration>
+        <guid isPermaLink="false">deusxxvi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXV </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Fri, 21 Jul 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXV.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="237421889"/>
+        <itunes:duration>3:56:18</itunes:duration>
+        <guid isPermaLink="false">deusxxv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXIV </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Wed, 19 Jul 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXIV.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="228045413"/>
+        <itunes:duration>3:42:11</itunes:duration>
+        <guid isPermaLink="false">deusxxiv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXIII </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 17 Jul 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXIII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="190634366"/>
+        <itunes:duration>4:30:54</itunes:duration>
+        <guid isPermaLink="false">deusxxiii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXII </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Tue, 28 Jun 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="205067261"/>
+        <itunes:duration>4:44:39</itunes:duration>
+        <guid isPermaLink="false">deusxxii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXI </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 24 Jun 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXI.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="229024616"/>
+        <itunes:duration>5:24:58</itunes:duration>
+        <guid isPermaLink="false">deusxxi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XX </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 10 April 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XX.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="219365376"/>
+        <itunes:duration>5:02:07</itunes:duration>
+        <guid isPermaLink="false">deusxx</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XIX </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Wed, 5 April 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XIX.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="196476928"/>
+        <itunes:duration>4:24:54</itunes:duration>
+        <guid isPermaLink="false">deusxix</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XVIII </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 3 April 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XVIII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="194875392"/>
+        <itunes:duration>4:30:24</itunes:duration>
+        <guid isPermaLink="false">deusxviii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>INTERMISSION A - MONGEESE </title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sun, 2 April 2023 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/INTERMISSION-A.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="99672064"/>
+        <itunes:duration>2:25:39</itunes:duration>
+        <guid isPermaLink="false">deusintermissiona</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Deus XVII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 31 Dec 2022 14:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XVII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="304160264"/>
+        <itunes:duration>6:50:32</itunes:duration>
+        <guid isPermaLink="false">deusxvii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Deus XVI</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Tue, 27 Dec 2022 15:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XVI.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="197349758"/>
+        <itunes:duration>4:31:53</itunes:duration>
+        <guid isPermaLink="false">deusxvi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Deus XV</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Thu, 1 Sep 2022 12:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XV.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="148126682"/>
+        <itunes:duration>3:22:41</itunes:duration>
+        <guid isPermaLink="false">deusxv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus XIV</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Fri, 26 Aug 2022 12:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XIV.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="201007370"/>
+        <itunes:duration>4:31:05</itunes:duration>
+        <guid isPermaLink="false">deusxiv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus XIII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 22 Aug 2022 12:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XIII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="212142676"/>
+        <itunes:duration>4:50:51</itunes:duration>
+        <guid isPermaLink="false">deusxiii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus XII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sun, 21 Aug 2022 16:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="219882452"/>
+        <itunes:duration>5:04:14</itunes:duration>
+        <guid isPermaLink="false">deusxii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus XI</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Fri, 29 Jul 2022 15:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XI.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="201208645"/>
+        <itunes:duration>4:38:09</itunes:duration>
+        <guid isPermaLink="false">deusxi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus X</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sun, 25 Jul 2022 16:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/X.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="230035614"/>
+        <itunes:duration>5:16:36</itunes:duration>
+        <guid isPermaLink="false">deusx</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus IX</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 25 Jun 2022 17:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/IX.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="108004627"/>
+        <itunes:duration>2:26:40</itunes:duration>
+        <guid isPermaLink="false">deusix</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus VIII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Tue, 12 Apr 2022 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/VIII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="91758349"/>
+        <itunes:duration>2:05:36</itunes:duration>
+        <guid isPermaLink="false">deusviii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus VII</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 11 Apr 2022 17:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/VII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="131343651"/>
+        <itunes:duration>2:59:05</itunes:duration>
+        <guid isPermaLink="false">deusvii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus VI</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 9 Apr 2022 17:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/VI.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="95994379"/>
+        <itunes:duration>2:09:35</itunes:duration>
+        <guid isPermaLink="false">deusvi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus V</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 19 Mar 2022 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/V.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="138860857"/>
+        <itunes:duration>3:11:00</itunes:duration>
+        <guid isPermaLink="false">deusv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus IV</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Thu, 17 Feb 2022 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/IV.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="162079372"/>
+        <itunes:duration>3:42:16</itunes:duration>
+        <guid isPermaLink="false">deusiv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus III</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 15 Jan 2022 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/III.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="144272110"/>
+        <itunes:duration>3:12:55</itunes:duration>
+        <guid isPermaLink="false">deusiii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus II</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Sat, 20 Nov 2021 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/II.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="144586567"/>
+        <itunes:duration>3:16:21</itunes:duration>
+        <guid isPermaLink="false">deusii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+        <title>Deus I</title>
+        <description>Lorem Ipsum</description>
+        <pubDate>Mon, 20 Aug 2021 13:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/I.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="119967197"/>
+        <itunes:duration>2:45:20</itunes:duration>
+        <guid isPermaLink="false">deusi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+        </item>
+  </channel>
+</rss>

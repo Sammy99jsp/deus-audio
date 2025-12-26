@@ -1,0 +1,14 @@
+name = "deus_archive"
+main = "build/index.js"
+compatibility_date = "2025-12-26"
+
+[assets]
+directory = "./dist"
+
+[[routes]]
+pattern = "deus.sammy99jsp.dev"
+custom_domain = true
+
+[build]
+command = "cargo install -q worker-build@^0.7 && worker-build --release && rm -rf ../../build && mv ./build ../../build"
+cwd = "crates/worker"

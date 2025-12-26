@@ -1,0 +1,17 @@
+[package]
+name = "deus-archive-worker"
+version = "0.1.0"
+authors.workspace = true
+edition.workspace = true
+publish = false
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+
+worker = { version = "0.7" }
+worker-macros = { version = "0.7" }
+s3 = { path = "../s3" }
+chrono = "0.4.42"
+serde = { version = "1.0.228", features = ["derive"] }
