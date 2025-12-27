@@ -22,6 +22,36 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
       <item>
+        <title>Deus XXXIII </title>
+        <description>I know this is out of order, don't Judge!</description>
+        <pubDate>Sat, 6 Apr 2024 14:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXXIII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="222975728"/>
+        <itunes:duration>4:26:59</itunes:duration>
+        <guid isPermaLink="false">deusxxxiii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXXII </title>
+        <description>I know this is out of order, don't Judge!</description>
+        <pubDate>Fri, 5 Apr 2024 16:00:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXXII.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="222975728"/>
+        <itunes:duration>4:16:55</itunes:duration>
+        <guid isPermaLink="false">deusxxxii</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
+        <title>Deus XXXI </title>
+        <description>I know this is out of order, don't Judge!</description>
+        <pubDate>Thu, 4 Jan 2024 16:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXXI.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="222975728"/>
+        <itunes:duration>4:16:55</itunes:duration>
+        <guid isPermaLink="false">deusxxxi</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
         <title>Deus XXVI </title>
         <description>Lorem Ipsum</description>
         <pubDate>Sat, 22 Jul 2023 14:30:00 GMT</pubDate>
