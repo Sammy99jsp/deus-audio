@@ -12,6 +12,16 @@
     <language>en-gb</language>
     <link>https://deus.sammy99jsp.dev/</link>
       <item>
+        <title>Deus XXXIV </title>
+        <description>I know this is out of order, don't Judge!</description>
+        <pubDate>Sat, 22 Dec 2024 13:30:00 GMT</pubDate>
+        <enclosure url="https://deus.sammy99jsp.dev/XXXIV.mp3?shibboleth={{SHIBBOLETH}}"
+            type="audio/mpeg" length="222975728"/>
+        <itunes:duration>5:45:17</itunes:duration>
+        <guid isPermaLink="false">deusxxxiv</guid>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+      <item>
         <title>Deus XXVI </title>
         <description>Lorem Ipsum</description>
         <pubDate>Sat, 22 Jul 2023 14:30:00 GMT</pubDate>
